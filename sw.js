@@ -3,9 +3,9 @@
 
 const CACHE_NAME = 'lab-7-starter';
 var urlsToCache = [
+  'Lab7_Starter/index.html',
   'Lab7_Starter/assets/scripts/main.js',
   'Lab7_Starter/assets/scripts/Router.js',
-  'Lab7_Starter/index.html',
   'Lab7_Starter/favicon.ico',
   'Lab7_Starter/assets/components/RecipeCard.js',
   'Lab7_Starter/assets/components/RecipeExpand.js',
