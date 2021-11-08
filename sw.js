@@ -3,7 +3,6 @@
 
 const CACHE_NAME = 'lab-7-starter';
 var urlsToCache = [
-  '/',
   'Lab7_Starter/assets/scripts/main.js',
   'Lab7_Starter/assets/scripts/Router.js',
   'Lab7_Starter/index.html',
