@@ -4,20 +4,20 @@
 const CACHE_NAME = 'lab-7-starter';
 var urlsToCache = [
   '/',
-  '/assets/scripts/main.js',
-  '/assets/scripts/Router.js',
-  '/index.html',
-  '/favicon.ico',
-  '/assets/components/RecipeCard.js',
-  '/assets/components/RecipeExpand.js',
-  '/assets/images/icons/0-star.svg',
-  '/assets/images/icons/1-star.svg',
-  '/assets/images/icons/2-star.svg',
-  '/assets/images/icons/3-star.svg',
-  '/assets/images/icons/4-star.svg',
-  '/assets/images/icons/5-star.svg',
-  '/assets/images/icons/arrow-down.png',
-  '/assets/styles/main.css'
+  'Lab7_Starter/assets/scripts/main.js',
+  'Lab7_Starter/assets/scripts/Router.js',
+  'Lab7_Starter/index.html',
+  'Lab7_Starter/favicon.ico',
+  'Lab7_Starter/assets/components/RecipeCard.js',
+  'Lab7_Starter/assets/components/RecipeExpand.js',
+  'Lab7_Starter/assets/images/icons/0-star.svg',
+  'Lab7_Starter/assets/images/icons/1-star.svg',
+  'Lab7_Starter/assets/images/icons/2-star.svg',
+  'Lab7_Starter/assets/images/icons/3-star.svg',
+  'Lab7_Starter/assets/images/icons/4-star.svg',
+  'Lab7_Starter/assets/images/icons/5-star.svg',
+  'Lab7_Starter/assets/images/icons/arrow-down.png',
+  'Lab7_Starter/assets/styles/main.css'
 ];
 
 // Once the service worker has been installed, feed it some initial URLs to cache
